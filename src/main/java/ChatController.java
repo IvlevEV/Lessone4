@@ -10,7 +10,7 @@ import java.awt.event.ActionListener;
         private JButton button;
 
         public ChatController(){
-            setTitle("Чат для дз Ивлев Е. В.");
+            setTitle("Чат Ивлев Е. В.");
             setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
             setBounds(100, 100, 500, 500);
 
